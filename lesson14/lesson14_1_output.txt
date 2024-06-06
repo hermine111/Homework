@@ -1,0 +1,20 @@
+Character I occurs 1 times 
+Character t occurs 6 times 
+Character   occurs 14 times 
+Character d occurs 2 times 
+Character o occurs 11 times 
+Character e occurs 2 times 
+Character s occurs 5 times 
+Character n occurs 3 times 
+Character m occurs 1 times 
+Character a occurs 3 times 
+Character r occurs 1 times 
+Character h occurs 1 times 
+Character w occurs 2 times 
+Character l occurs 3 times 
+Character y occurs 3 times 
+Character u occurs 2 times 
+Character g occurs 2 times 
+Character , occurs 1 times 
+Character p occurs 1 times 
+Character . occurs 1 times 
